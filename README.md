@@ -8,7 +8,7 @@ Balanced Accuracy: 73.99%
 Go to the project folder:
 
 ```bash
-cd /Users/kanchannishad/Desktop/submission
+cd /Users/Desktop/submission
 2. Run the inference script
 
 Use the Python environment containing PyTorch, NumPy, Pandas, Pillow, and Torchvision:
