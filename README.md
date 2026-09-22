@@ -1,3 +1,33 @@
+## How to Run `inference.py`
+
+`inference.py` generates predictions for all 2,000 evaluation images and creates the final `submission.csv`.
+
+### 1. Open Terminal
+
+Go to the project folder:
+
+```bash
+cd /Users/kanchannishad/Desktop/submission
+2. Run the inference script
+
+Use the Python environment containing PyTorch, NumPy, Pandas, Pillow, and Torchvision:
+
+/opt/anaconda3/bin/python inference.py
+3. Required files
+
+Before running, make sure these files/folders exist:
+
+submission/
+├── inference.py
+├── checkpoints/
+│   └── best_exp4_extended_cosine.pth
+└── testt/
+    ├── test_metadata.csv
+    └── eval_images/
+        ├── eval_00001.png
+        ├── eval_00002.png
+        └── ...
+```
 # The Pareidolia Paradox — Lunar Surface Classification
 
 Lunar surface classification using physics-aware image preprocessing and a ResNet18 deep learning model.
