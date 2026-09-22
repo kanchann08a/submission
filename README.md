@@ -68,6 +68,8 @@ submission/
 │   └── submission.csv
 │
 └── submission.csv
+```
+
 # Technical Approach
 
 ## 1. Core Idea
