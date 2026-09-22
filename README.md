@@ -1,3 +1,4 @@
+Balanced Accuracy: 73.99%
 ## How to Run `inference.py`
 
 `inference.py` generates predictions for all 2,000 evaluation images and creates the final `submission.csv`.
