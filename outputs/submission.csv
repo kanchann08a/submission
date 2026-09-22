@@ -29,7 +29,7 @@ eval_00027.png,1
 eval_00028.png,1
 eval_00029.png,1
 eval_00030.png,1
-eval_00031.png,1
+eval_00031.png,0
 eval_00032.png,1
 eval_00033.png,1
 eval_00034.png,1
@@ -66,12 +66,12 @@ eval_00064.png,1
 eval_00065.png,1
 eval_00066.png,1
 eval_00067.png,1
-eval_00068.png,0
+eval_00068.png,1
 eval_00069.png,1
 eval_00070.png,1
 eval_00071.png,1
 eval_00072.png,1
-eval_00073.png,0
+eval_00073.png,1
 eval_00074.png,1
 eval_00075.png,1
 eval_00076.png,1
@@ -94,7 +94,7 @@ eval_00092.png,1
 eval_00093.png,1
 eval_00094.png,1
 eval_00095.png,0
-eval_00096.png,0
+eval_00096.png,1
 eval_00097.png,1
 eval_00098.png,0
 eval_00099.png,1
@@ -116,7 +116,7 @@ eval_00114.png,1
 eval_00115.png,1
 eval_00116.png,1
 eval_00117.png,1
-eval_00118.png,1
+eval_00118.png,0
 eval_00119.png,1
 eval_00120.png,1
 eval_00121.png,1
@@ -130,7 +130,7 @@ eval_00128.png,1
 eval_00129.png,0
 eval_00130.png,1
 eval_00131.png,1
-eval_00132.png,0
+eval_00132.png,1
 eval_00133.png,1
 eval_00134.png,0
 eval_00135.png,1
@@ -178,7 +178,7 @@ eval_00176.png,0
 eval_00177.png,1
 eval_00178.png,1
 eval_00179.png,1
-eval_00180.png,0
+eval_00180.png,1
 eval_00181.png,0
 eval_00182.png,1
 eval_00183.png,0
@@ -215,7 +215,7 @@ eval_00213.png,1
 eval_00214.png,1
 eval_00215.png,1
 eval_00216.png,1
-eval_00217.png,0
+eval_00217.png,1
 eval_00218.png,1
 eval_00219.png,1
 eval_00220.png,1
@@ -256,7 +256,7 @@ eval_00254.png,1
 eval_00255.png,1
 eval_00256.png,1
 eval_00257.png,1
-eval_00258.png,1
+eval_00258.png,0
 eval_00259.png,1
 eval_00260.png,1
 eval_00261.png,1
@@ -279,7 +279,7 @@ eval_00277.png,1
 eval_00278.png,1
 eval_00279.png,1
 eval_00280.png,1
-eval_00281.png,0
+eval_00281.png,1
 eval_00282.png,1
 eval_00283.png,1
 eval_00284.png,1
@@ -305,7 +305,7 @@ eval_00303.png,1
 eval_00304.png,1
 eval_00305.png,1
 eval_00306.png,0
-eval_00307.png,0
+eval_00307.png,1
 eval_00308.png,1
 eval_00309.png,1
 eval_00310.png,1
@@ -319,7 +319,7 @@ eval_00317.png,1
 eval_00318.png,1
 eval_00319.png,1
 eval_00320.png,1
-eval_00321.png,0
+eval_00321.png,1
 eval_00322.png,1
 eval_00323.png,1
 eval_00324.png,1
@@ -390,7 +390,7 @@ eval_00388.png,1
 eval_00389.png,1
 eval_00390.png,0
 eval_00391.png,1
-eval_00392.png,0
+eval_00392.png,1
 eval_00393.png,1
 eval_00394.png,1
 eval_00395.png,1
@@ -467,7 +467,7 @@ eval_00465.png,1
 eval_00466.png,1
 eval_00467.png,0
 eval_00468.png,1
-eval_00469.png,0
+eval_00469.png,1
 eval_00470.png,1
 eval_00471.png,1
 eval_00472.png,1
@@ -545,9 +545,9 @@ eval_00543.png,1
 eval_00544.png,0
 eval_00545.png,1
 eval_00546.png,1
-eval_00547.png,0
+eval_00547.png,1
 eval_00548.png,0
-eval_00549.png,1
+eval_00549.png,0
 eval_00550.png,1
 eval_00551.png,1
 eval_00552.png,1
@@ -580,7 +580,7 @@ eval_00578.png,0
 eval_00579.png,1
 eval_00580.png,1
 eval_00581.png,1
-eval_00582.png,0
+eval_00582.png,1
 eval_00583.png,1
 eval_00584.png,1
 eval_00585.png,1
@@ -598,7 +598,7 @@ eval_00596.png,1
 eval_00597.png,0
 eval_00598.png,1
 eval_00599.png,1
-eval_00600.png,0
+eval_00600.png,1
 eval_00601.png,1
 eval_00602.png,1
 eval_00603.png,1
@@ -618,13 +618,13 @@ eval_00616.png,1
 eval_00617.png,1
 eval_00618.png,1
 eval_00619.png,1
-eval_00620.png,0
+eval_00620.png,1
 eval_00621.png,1
 eval_00622.png,0
 eval_00623.png,1
 eval_00624.png,1
 eval_00625.png,1
-eval_00626.png,0
+eval_00626.png,1
 eval_00627.png,1
 eval_00628.png,1
 eval_00629.png,1
@@ -686,10 +686,10 @@ eval_00684.png,1
 eval_00685.png,1
 eval_00686.png,1
 eval_00687.png,0
-eval_00688.png,0
+eval_00688.png,1
 eval_00689.png,1
 eval_00690.png,0
-eval_00691.png,0
+eval_00691.png,1
 eval_00692.png,1
 eval_00693.png,1
 eval_00694.png,1
@@ -699,7 +699,7 @@ eval_00697.png,1
 eval_00698.png,0
 eval_00699.png,1
 eval_00700.png,1
-eval_00701.png,1
+eval_00701.png,0
 eval_00702.png,1
 eval_00703.png,1
 eval_00704.png,1
@@ -711,14 +711,14 @@ eval_00709.png,1
 eval_00710.png,1
 eval_00711.png,1
 eval_00712.png,1
-eval_00713.png,0
+eval_00713.png,1
 eval_00714.png,1
 eval_00715.png,1
 eval_00716.png,1
-eval_00717.png,1
+eval_00717.png,0
 eval_00718.png,1
 eval_00719.png,1
-eval_00720.png,0
+eval_00720.png,1
 eval_00721.png,1
 eval_00722.png,1
 eval_00723.png,1
@@ -757,7 +757,7 @@ eval_00755.png,1
 eval_00756.png,1
 eval_00757.png,1
 eval_00758.png,1
-eval_00759.png,1
+eval_00759.png,0
 eval_00760.png,1
 eval_00761.png,1
 eval_00762.png,1
@@ -795,12 +795,12 @@ eval_00793.png,1
 eval_00794.png,0
 eval_00795.png,1
 eval_00796.png,1
-eval_00797.png,0
+eval_00797.png,1
 eval_00798.png,1
 eval_00799.png,0
 eval_00800.png,1
 eval_00801.png,1
-eval_00802.png,0
+eval_00802.png,1
 eval_00803.png,1
 eval_00804.png,1
 eval_00805.png,1
@@ -822,7 +822,7 @@ eval_00820.png,1
 eval_00821.png,1
 eval_00822.png,1
 eval_00823.png,0
-eval_00824.png,0
+eval_00824.png,1
 eval_00825.png,1
 eval_00826.png,1
 eval_00827.png,0
@@ -831,7 +831,7 @@ eval_00829.png,1
 eval_00830.png,1
 eval_00831.png,1
 eval_00832.png,1
-eval_00833.png,0
+eval_00833.png,1
 eval_00834.png,1
 eval_00835.png,1
 eval_00836.png,1
@@ -896,7 +896,7 @@ eval_00894.png,1
 eval_00895.png,1
 eval_00896.png,1
 eval_00897.png,1
-eval_00898.png,0
+eval_00898.png,1
 eval_00899.png,1
 eval_00900.png,0
 eval_00901.png,1
@@ -965,7 +965,7 @@ eval_00963.png,1
 eval_00964.png,1
 eval_00965.png,1
 eval_00966.png,1
-eval_00967.png,0
+eval_00967.png,1
 eval_00968.png,1
 eval_00969.png,1
 eval_00970.png,1
@@ -988,7 +988,7 @@ eval_00986.png,1
 eval_00987.png,1
 eval_00988.png,1
 eval_00989.png,0
-eval_00990.png,0
+eval_00990.png,1
 eval_00991.png,1
 eval_00992.png,1
 eval_00993.png,1
@@ -1004,7 +1004,7 @@ eval_01002.png,1
 eval_01003.png,1
 eval_01004.png,1
 eval_01005.png,1
-eval_01006.png,0
+eval_01006.png,1
 eval_01007.png,1
 eval_01008.png,0
 eval_01009.png,1
@@ -1013,7 +1013,7 @@ eval_01011.png,1
 eval_01012.png,0
 eval_01013.png,1
 eval_01014.png,1
-eval_01015.png,0
+eval_01015.png,1
 eval_01016.png,1
 eval_01017.png,1
 eval_01018.png,0
@@ -1052,7 +1052,7 @@ eval_01050.png,1
 eval_01051.png,1
 eval_01052.png,1
 eval_01053.png,1
-eval_01054.png,0
+eval_01054.png,1
 eval_01055.png,1
 eval_01056.png,0
 eval_01057.png,1
@@ -1086,7 +1086,7 @@ eval_01084.png,1
 eval_01085.png,1
 eval_01086.png,1
 eval_01087.png,1
-eval_01088.png,0
+eval_01088.png,1
 eval_01089.png,1
 eval_01090.png,1
 eval_01091.png,1
@@ -1123,7 +1123,7 @@ eval_01121.png,1
 eval_01122.png,1
 eval_01123.png,1
 eval_01124.png,1
-eval_01125.png,0
+eval_01125.png,1
 eval_01126.png,0
 eval_01127.png,1
 eval_01128.png,1
@@ -1168,7 +1168,7 @@ eval_01166.png,1
 eval_01167.png,1
 eval_01168.png,1
 eval_01169.png,1
-eval_01170.png,0
+eval_01170.png,1
 eval_01171.png,1
 eval_01172.png,1
 eval_01173.png,1
@@ -1191,14 +1191,14 @@ eval_01189.png,0
 eval_01190.png,1
 eval_01191.png,0
 eval_01192.png,1
-eval_01193.png,0
+eval_01193.png,1
 eval_01194.png,1
 eval_01195.png,1
 eval_01196.png,1
 eval_01197.png,1
 eval_01198.png,1
 eval_01199.png,1
-eval_01200.png,0
+eval_01200.png,1
 eval_01201.png,1
 eval_01202.png,1
 eval_01203.png,1
@@ -1254,7 +1254,7 @@ eval_01252.png,1
 eval_01253.png,1
 eval_01254.png,1
 eval_01255.png,1
-eval_01256.png,0
+eval_01256.png,1
 eval_01257.png,1
 eval_01258.png,1
 eval_01259.png,1
@@ -1332,7 +1332,7 @@ eval_01330.png,1
 eval_01331.png,0
 eval_01332.png,1
 eval_01333.png,0
-eval_01334.png,1
+eval_01334.png,0
 eval_01335.png,1
 eval_01336.png,0
 eval_01337.png,1
@@ -1377,7 +1377,7 @@ eval_01375.png,1
 eval_01376.png,1
 eval_01377.png,1
 eval_01378.png,1
-eval_01379.png,0
+eval_01379.png,1
 eval_01380.png,1
 eval_01381.png,0
 eval_01382.png,1
@@ -1415,7 +1415,7 @@ eval_01413.png,1
 eval_01414.png,1
 eval_01415.png,1
 eval_01416.png,1
-eval_01417.png,0
+eval_01417.png,1
 eval_01418.png,1
 eval_01419.png,1
 eval_01420.png,1
@@ -1423,7 +1423,7 @@ eval_01421.png,1
 eval_01422.png,1
 eval_01423.png,1
 eval_01424.png,1
-eval_01425.png,0
+eval_01425.png,1
 eval_01426.png,0
 eval_01427.png,0
 eval_01428.png,1
@@ -1477,7 +1477,7 @@ eval_01475.png,1
 eval_01476.png,1
 eval_01477.png,1
 eval_01478.png,1
-eval_01479.png,0
+eval_01479.png,1
 eval_01480.png,1
 eval_01481.png,1
 eval_01482.png,1
@@ -1636,7 +1636,7 @@ eval_01634.png,1
 eval_01635.png,0
 eval_01636.png,1
 eval_01637.png,1
-eval_01638.png,0
+eval_01638.png,1
 eval_01639.png,0
 eval_01640.png,1
 eval_01641.png,1
@@ -1667,7 +1667,7 @@ eval_01665.png,0
 eval_01666.png,1
 eval_01667.png,1
 eval_01668.png,1
-eval_01669.png,1
+eval_01669.png,0
 eval_01670.png,0
 eval_01671.png,1
 eval_01672.png,1
@@ -1694,7 +1694,7 @@ eval_01692.png,1
 eval_01693.png,1
 eval_01694.png,1
 eval_01695.png,1
-eval_01696.png,0
+eval_01696.png,1
 eval_01697.png,1
 eval_01698.png,0
 eval_01699.png,1
@@ -1859,7 +1859,7 @@ eval_01857.png,1
 eval_01858.png,1
 eval_01859.png,1
 eval_01860.png,1
-eval_01861.png,0
+eval_01861.png,1
 eval_01862.png,0
 eval_01863.png,1
 eval_01864.png,0
@@ -1974,13 +1974,13 @@ eval_01972.png,1
 eval_01973.png,1
 eval_01974.png,1
 eval_01975.png,0
-eval_01976.png,0
+eval_01976.png,1
 eval_01977.png,1
 eval_01978.png,1
 eval_01979.png,0
 eval_01980.png,0
 eval_01981.png,1
-eval_01982.png,0
+eval_01982.png,1
 eval_01983.png,1
 eval_01984.png,0
 eval_01985.png,1
@@ -1994,7 +1994,7 @@ eval_01992.png,0
 eval_01993.png,1
 eval_01994.png,0
 eval_01995.png,1
-eval_01996.png,0
+eval_01996.png,1
 eval_01997.png,1
 eval_01998.png,1
 eval_01999.png,1
