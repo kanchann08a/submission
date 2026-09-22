@@ -1,4 +1,73 @@
+# The Pareidolia Paradox — Lunar Surface Classification
 
+Lunar surface classification using physics-aware image preprocessing and a ResNet18 deep learning model.
+
+The task is to classify lunar surface images into two classes:
+
+- **0 — Depth:** craters, holes, depressions
+- **1 — Rise:** mounds, hills, rocks, boulders
+
+---
+
+## 1. Project Overview
+
+This project classifies lunar terrain images as either a **Depth** or a **Rise**.
+
+The dataset provides:
+
+- Lunar surface images
+- Sun azimuth angle for each image
+- Training labels for the training set
+
+The sun azimuth angle is used during preprocessing to normalize the illumination direction before classification.
+
+The final model is a **ResNet18** trained for binary classification.
+
+### Final Validation Result
+
+**Validation Balanced Accuracy: 73.99%**
+
+- Train/Validation split: **85/15**
+- Stratified split
+- `random_state = 42`
+- Best checkpoint: **Epoch 14**
+
+---
+
+# 2. Project Structure
+
+```text
+submission/
+│
+├── README.md
+├── requirements.txt
+│
+├── paradox.ipynb
+│
+├── inference.py
+├── run_exp4.py
+├── run_exp5.py
+│
+├── checkpoints/
+│   └── best_exp4_extended_cosine.pth
+│
+├── train/
+│   ├── train_metadata.csv
+│   └── training images
+│
+├── testt/
+│   ├── test_metadata.csv
+│   │
+│   ├── eval_images/
+│   │   └── evaluation images
+│   │
+│   └── eval_images_rot/
+│       └── rotated evaluation images
+│
+├── outputs/
+│   └── submission.csv
+│
+└── submission.csv
 # Technical Approach
 
 ## 1. Core Idea
